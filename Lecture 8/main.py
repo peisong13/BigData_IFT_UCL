@@ -16,7 +16,7 @@ import statsmodels.api as sm
 from sklearn.decomposition import PCA
 
 # important to set up directories
-GITRepoDirectory = "D:/UCL MSc/Big Data"
+GITRepoDirectory = "your/repo/here"
 
 # loading configurations
 config = configparser.ConfigParser()
